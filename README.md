@@ -14,7 +14,7 @@ This page contains information about installing the Library for PHP.
 
 ### Requirements
 
-- PHP version 5.2.0 or greater (including PHP 7)
+- PHP version 5.3.0 or greater (including PHP 7)
 
 ### Obtaining the client library
 
