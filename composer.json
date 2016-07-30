@@ -1,0 +1,39 @@
+{
+  "name": "davaxi/google_event_template",
+  "description": "PHP Class to generate Google Calendar Event link",
+  "version": "1.0.0",
+  "type": "library",
+  "keywords": [
+    "google",
+    "calendar",
+    "event",
+    "template",
+    "php",
+    "link"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "David Patiashvili",
+      "email": "stratagem.david@gmail.com",
+      "homepage": "https://www.patiashvili.fr/",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/davaxi/Google_Event_Template/issues",
+    "source": "https://github.com/davaxi/Google_Event_Template/releases"
+  },
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=5.2.0"
+  },
+  "require-dev": {
+    "php": ">=5.2.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Davaxi\\": "src/"
+    }
+  }
+}
