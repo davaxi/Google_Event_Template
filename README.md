@@ -3,10 +3,11 @@
 PHP Class to generate Google Calendar Event link
 
 [![Build Status](https://travis-ci.org/davaxi/Google_Event_Template.svg)](https://travis-ci.org/davaxi/Google_Event_Template)
-[![Latest Stable Version](https://poser.pugx.org/davaxi/google_event_template/v/stable)](https://packagist.org/packages/davaxi/google_event_template) 
-[![Total Downloads](https://poser.pugx.org/davaxi/google_event_template/downloads)](https://packagist.org/packages/davaxi/google_event_template) 
-[![Latest Unstable Version](https://poser.pugx.org/davaxi/google_event_template/v/unstable)](https://packagist.org/packages/davaxi/google_event_template) 
+[![Latest Stable Version](https://poser.pugx.org/davaxi/google_event_template/version)](https://packagist.org/packages/davaxi/google_event_template)
+[![Total Downloads](https://poser.pugx.org/davaxi/google_event_template/downloads)](https://packagist.org/packages/davaxi/google_event_template)
+[![Latest Unstable Version](https://poser.pugx.org/davaxi/google_event_template/v/unstable)](//packagist.org/packages/davaxi/google_event_template)
 [![License](https://poser.pugx.org/davaxi/google_event_template/license)](https://packagist.org/packages/davaxi/google_event_template)
+[![composer.lock available](https://poser.pugx.org/davaxi/google_event_template/composerlock)](https://packagist.org/packages/davaxi/google_event_template)
 
 ## Installation
 
