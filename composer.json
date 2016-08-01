@@ -1,7 +1,7 @@
 {
   "name": "davaxi/google_event_template",
   "description": "PHP Class to generate Google Calendar Event link",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "library",
   "keywords": [
     "google",

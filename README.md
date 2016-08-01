@@ -8,6 +8,9 @@ PHP Class to generate Google Calendar Event link
 [![Latest Unstable Version](https://poser.pugx.org/davaxi/google_event_template/v/unstable)](//packagist.org/packages/davaxi/google_event_template)
 [![License](https://poser.pugx.org/davaxi/google_event_template/license)](https://packagist.org/packages/davaxi/google_event_template)
 [![composer.lock available](https://poser.pugx.org/davaxi/google_event_template/composerlock)](https://packagist.org/packages/davaxi/google_event_template)
+[![Code Climate](https://codeclimate.com/github/davaxi/Google_Event_Template/badges/gpa.svg)](https://codeclimate.com/github/davaxi/Google_Event_Template)
+[![Test Coverage](https://codeclimate.com/github/davaxi/Google_Event_Template/badges/coverage.svg)](https://codeclimate.com/github/davaxi/Google_Event_Template/coverage)
+[![Issue Count](https://codeclimate.com/github/davaxi/Google_Event_Template/badges/issue_count.svg)](https://codeclimate.com/github/davaxi/Google_Event_Template)
 
 ## Installation
 
